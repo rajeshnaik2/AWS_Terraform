@@ -7,7 +7,7 @@ variable "aws_secret_key" {}
 variable "private_key_path" {}
 
 variable "key_name" {
-  default = "PluralsightKey"
+  default = "??keyname??"
 }
 
 variable "network_address_space" {
